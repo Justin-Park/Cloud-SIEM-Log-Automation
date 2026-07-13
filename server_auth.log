@@ -1,0 +1,8 @@
+2026-07-14 06:00:01 - INFO - User admin login successful from IP 192.168.1.10
+2026-07-14 06:05:20 - WARN - User root login failed from IP 203.0.113.5 - Invalid password
+2026-07-14 06:05:22 - WARN - User root login failed from IP 203.0.113.5 - Invalid password
+2026-07-14 06:05:25 - WARN - User root login failed from IP 203.0.113.5 - Invalid password
+2026-07-14 06:05:28 - WARN - User root login failed from IP 203.0.113.5 - Invalid password
+2026-07-14 06:10:15 - INFO - User guest login successful from IP 192.168.1.15
+2026-07-14 06:12:40 - WARN - User admin login failed from IP 198.51.100.22 - Unknown user
+2026-07-14 06:12:42 - WARN - User admin login failed from IP 198.51.100.22 - Unknown user
